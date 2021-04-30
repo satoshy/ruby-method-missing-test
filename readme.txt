@@ -10,7 +10,7 @@ Complexity Level #3: read instances of dynamically defined classes on all levels
 
 In order to run rspec you should install the gem:
 
-> gem install rspec
+> bundle install
 
 and run rspec:
 
