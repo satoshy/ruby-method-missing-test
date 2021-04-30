@@ -1,4 +1,5 @@
 require "./json_db"
+require 'pry'
 
 RSpec.describe JsonDb do
   
